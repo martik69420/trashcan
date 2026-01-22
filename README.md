@@ -5,6 +5,7 @@ A 3d printed trash can
 Here is the .stl file and .step file linked under.
 
 ![.stl file](/trashcan.stl) 
+
 ![.step file](/trashcan.step) 
 
 The images of the project and the steps I took are available to view in blueprint, I will put all images below.
@@ -18,7 +19,3 @@ The images of the project and the steps I took are available to view in blueprin
 ![Image2](/images/image2.png)  
 
 ![Image5](/images/image5.png)  
-
-![Image6](/images/image6.png)  
-
-![Image7](/images/image7.png)
